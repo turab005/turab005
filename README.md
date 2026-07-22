@@ -23,6 +23,7 @@ A collection of Python-based tools designed to solve specific business problems.
 | **[⚡ Arwa Flow](https://github.com/turab005/Arwa-Flow)** | **Excel/CSV Data Cleaning Tool:** Streamlit web app that automatically removes duplicates, handles missing values, and formats data. | `Python`, `Streamlit`, `Pandas` |
 | **[🕷️ Arwa Scraper](https://github.com/turab005/Arwa-Scraper)** | **Automated Web Data Extraction:** Headless browser scraper to extract structured product data (prices, stock) for market research. | `Python`, `Playwright`, `Pandas` |
 | **[📁 Arwa Organizer](https://github.com/turab005/Arwa-Organizer)** | **Real-Time File Auto-Organizer:** Background service that watches folders and automatically categorizes/renames incoming files. | `Python`, `Watchdog` |
+| **[🗺️ Google Maps Scraper](https://github.com/turab005/Google-Maps-Scraper)** | **B2B Lead Generation Bot:** Automated Python scraper that extracts local businesses and deep-scans websites for emails. | `Python`, `Playwright`, `Pandas` |
 
 ---
 
